@@ -1,0 +1,36 @@
+h1{
+    color: crimson;
+    font-size: 100px;
+  }
+img:hover{
+  background-color: crimson;
+  height: 15%;
+  width: 15%;
+ }
+p{
+  font-style: italic ;
+}
+
+ /*******************class********************/
+
+.ssss{
+    background-color: yellow;
+    height: 15%;
+    width: 15%;
+   }
+.emo{
+    background-color: greenyellow;
+    height: 15%;
+    width: 15%;
+   }
+.circular1{
+  border-radius: 25%;
+}
+.circular{
+  border-radius: 25%;
+}
+  
+/*****************Id*******************/
+#heading{
+  color: aqua;
+}
